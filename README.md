@@ -1,4 +1,4 @@
-🤖 Object Avoiding Robot - Arduino
+Object Avoiding Robot - Arduino
 
 An autonomous 4-wheel robot that detects obstacles using an ultrasonic sensor mounted on a servo, scans for a clear path, and navigates around them automatically.
 
